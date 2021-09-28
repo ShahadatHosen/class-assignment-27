@@ -173,8 +173,8 @@ width: 50%;
     background: #0dbf9b;
     padding: 25px 0;
 }
-.footer ul{
-
+.footer ul {
+    padding-left: 0px;
 }
 .footer ul li{
 
